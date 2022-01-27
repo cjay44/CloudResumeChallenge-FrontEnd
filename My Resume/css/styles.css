@@ -601,7 +601,7 @@ progress {
 }
 
 .img-fluid {
-  /*max-width: 100%;*/
+  max-width: 100%;
   height: auto;
 }
 
@@ -7941,7 +7941,7 @@ textarea.form-control-lg {
 }
 
 .rounded-circle {
-  border-radius: 70% !important;
+  border-radius: 50% !important;
 }
 
 .rounded-pill {
